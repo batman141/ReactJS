@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 } */
+* {
+  margin: 0;
+  padding: 0;
+}
+.body {
+  margin: 0px auto;
+  width: 50%;
+  text-align: center;
+  color: white;
+}
+
+.body h1 {
+  font-size: 36px;
+  background-color: rgb(62, 116, 211);
+  padding: 30px;
+}
+
+.element {
+  padding: 15px;
+  margin: 20px auto;
+}

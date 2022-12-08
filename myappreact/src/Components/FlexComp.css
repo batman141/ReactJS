@@ -16,7 +16,7 @@
 .container2 {
   display: flex;
   padding: 5px;
-  width: 300px;
+  width: 100%;
   gap: 5px;
   border: 2px solid rgb(38, 38, 113);
   background-color: rgb(38, 38, 113);
